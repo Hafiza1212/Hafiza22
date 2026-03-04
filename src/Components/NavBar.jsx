@@ -59,6 +59,7 @@ const NavBar = () => {
             <div className=' flex  gap-[25.01px]'>
             <div className='flex hidden lg:pt-0  lg:block gap-[25.01px]'>
                 <div className='flex gap-[8px]'>*/}
+                <div>
 <ul className=' flex-wrap py-[21px] '>
                     <li className="p-3.25 bg-gray-300 rounded-full  inline-block">
                         <img src={instragram} alt="" />
@@ -74,6 +75,7 @@ const NavBar = () => {
                         <img src={facebook} />
                     </li>
                     </ul>
+                    </div>
                 </div>
                 </div>
                 <div className='pr-[200px] mt-[-160px]'>
