@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@layer utilities{
+  .container{
+    @apply max-w-322.5 mx-auto;
+  }
+}
+@theme{
+  --font-rajdhani: "Rajdhani"
+}
+
+
+
