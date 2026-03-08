@@ -78,7 +78,7 @@ const NavBar = () => {
                     </div>
                 </div>
                 </div>
-                <div className='pr-[200px] mt-[-160px]'>
+                <div className='pr-[50px] mt-[-180px]'>
                     <img 
   onClick={handleClick} 
    
