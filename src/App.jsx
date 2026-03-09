@@ -3,6 +3,10 @@ import NavBar from './Components/NavBar'
 import Banner from './Components/Banner'
 import Design from './Components/Design'
 import Experience from './Components/Experience'
+import LatestService from './Components/LatestService'
+import Education from './Components/Education'
+import Box from './Components/Box'
+import Transform from './Components/Transform'
 
 function App() {
   
@@ -13,6 +17,10 @@ function App() {
        <Banner/> 
        <Design/>
        <Experience/>
+       <LatestService/>
+       <Education/>
+       <Box/>
+       <Transform/>
     </>
   )
 }

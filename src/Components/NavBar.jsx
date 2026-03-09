@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Icon from '../Images/Icon.png'
-import Container from '../Images/Container.png'
+import Reeni from '../Images/Reeni.png'
 import facebook from '../Images/facebook.png'
 import instragram from '../Images/instragram.png'
 import linkedin from '../Images/linkedin.png'
@@ -20,7 +20,7 @@ const NavBar = () => {
     
         
             <div className='pb-[200px] '>
-                <img src={Container} />
+                <img src={Reeni} />
             </div>
             <div className={`${show?"block":"hidden"} lg:block flex items-center lg:text-black text-blue-900  `}>
                 <div className='flex gap-[200.87px]'>

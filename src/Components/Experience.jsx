@@ -1,5 +1,8 @@
 import React from 'react'
 import Shadow from '../Images/Shadow.png'
+import Number from '../Images/Number.png'
+
+
 const Experience = () => {
     return (
         <section>
@@ -8,19 +11,22 @@ const Experience = () => {
 
                 <div className='main flex gap-[30px]'>
 
-                    <div className="div1 pt-[30px]  w-[50%]">hello
+                    <div className="div1 pt-[30px] pb-[120px]  w-[50%]">
 
 <div className="pt-[30px] px-[15px] rounded-[20px] bg-[#F4F4F4] ">
 
-<div className="div-11 px-[52px] pt-[36px] flex gap-[65.61px] pb-[115px]">
-<div className='text-[#FF494A] w-[50%] py-[39.23px] pr-[21.6px]'>25</div>
-<h1 className='w-[50%]'>Years Of
+<div className="div-11 px-[52px] pt-[36px]  flex items-center gap-[65.61px] pb-[115px]">
+<img src={Number}/>
+<h1 className='w-[50%] py-[39px] font-bold text-[48.1px] font-rajdhani'>Years Of
 experience</h1>
+ 
+</div>
+
+<div className='pb-[51px] text-center px-[52px] mt-[-128px]'>
+  <p>Business consulting consultants provide expert advice and guida the
+a businesses to help theme their performance efficiency</p> 
 
 </div>
-<div className="div-12"></div>
-
-
 
 </div>
 
@@ -30,7 +36,7 @@ experience</h1>
 
 
                     </div>
-                    <div className="div2 pt-[32px] gap-[30px] w-[50%] w-[50%] ">hi
+                    <div className="div2 pt-[32px] gap-[30px] w-[50%] w-[50%] ">
 
                         <div className="div21 flex gap-[30px] w-[25%] ">
                             <div className="bg-[#F4F4F4] border-r-4 border-b-4 border-red-400 rounded-[30px]">
