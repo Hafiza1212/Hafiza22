@@ -13,6 +13,8 @@ import MyPrice from './Components/MyPrice'
 import Testimonial from './Components/Testimonial'
 import Blog from './Components/Blog'
 import Footer from './Components/Footer'
+import End from './Components/End'
+
 function App() {
   
 
@@ -32,6 +34,7 @@ function App() {
        <Testimonial/>
        <Blog/>
        <Footer/>
+       <End/>
     </>
   )
 }
