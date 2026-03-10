@@ -7,7 +7,7 @@ import LatestService from './Components/LatestService'
 import Education from './Components/Education'
 import Box from './Components/Box'
 import Transform from './Components/Transform'
-
+import DesignSkill from './Components/DesginSkill'
 function App() {
   
 
@@ -18,6 +18,7 @@ function App() {
        <Design/>
        <Experience/>
        <LatestService/>
+       <DesignSkill/>
        <Education/>
        <Box/>
        <Transform/>
