@@ -20,7 +20,7 @@ const Design = () => {
                <img className='m-auto  pt-[20px] mx-[122.12px] border-box  ' src={Web}/>
 
 <h2 className='text-[24px] font-bold font-rajdhani pt-[30px]'>Web Design</h2>
-<p className='m-0 font-normal text-[16px] pt-[9px] pb-[41px] px-[101.12px] text-[#5D6570]'>120 Projects</p>
+<p className='m-0 font-normal text-[16px] pt-[9px] pb-[41px] px-[101.12px] text-[#5D6570] whitespace-nowrap'>120 Projects</p>
 
               </div>
                     
@@ -30,7 +30,7 @@ const Design = () => {
                <img className='m-auto  pt-[20px] mx-[122.12px] border-box ' src={UX}/>
 
 <h2 className='text-[24px] font-bold font-rajdhani pt-[30px]'>Ui/Ux Design</h2>
-<p className='m-0 font-normal text-[16px] pt-[9px] px-[101.12px] pb-[41px] text-[#5D6570]'>241 Projects</p>
+<p className='m-0 font-normal text-[16px] pt-[9px] px-[101.12px] pb-[41px] text-[#5D6570] whitespace-nowrap'>241 Projects</p>
 
               </div>
 
@@ -40,7 +40,7 @@ const Design = () => {
                <img className='m-auto  pt-[20px] mx-[122.12px] pb-[142.5px]border-box ' src={Bulb}/>
 
 <h2 className='text-[24px] font-bold font-rajdhani pt-[30px]'>Web Research</h2>
-<p className='m-0 font-normal text-[16px] pt-[9px] pb-[41px] px-[101.12px] text-[#5D6570]'>240 Projects</p>
+<p className='m-0 font-normal text-[16px] pt-[9px] pb-[41px] px-[101.12px] text-[#5D6570] whitespace-nowrap'>240 Projects</p>
 
               </div>
 
@@ -49,7 +49,7 @@ const Design = () => {
                <img className='m-auto  pt-[20px] mx-[122.12px]  ' src={Mail}/>
 
 <h2 className='text-[24px] font-bold font-rajdhani pt-[30px]'>Marketing</h2>
-<p className='m-0 font-normal text-[16px] pt-[9px] pb-[20px] px-[101.12px] text-[#5D6570]'>331 Projects</p>
+<p className='m-0 font-normal text-[16px] pt-[9px] pb-[20px] px-[101.12px] text-[#5D6570] whitespace-nowrap'>331 Projects</p>
 
               </div>
                    

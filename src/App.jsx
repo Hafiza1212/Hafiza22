@@ -7,7 +7,12 @@ import LatestService from './Components/LatestService'
 import Education from './Components/Education'
 import Box from './Components/Box'
 import Transform from './Components/Transform'
-import DesignSkill from './Components/DesginSkill'
+
+import MySkill from './Components/MySkill'
+import MyPrice from './Components/MyPrice'
+import Testimonial from './Components/Testimonial'
+import Blog from './Components/Blog'
+import Footer from './Components/Footer'
 function App() {
   
 
@@ -18,10 +23,15 @@ function App() {
        <Design/>
        <Experience/>
        <LatestService/>
-       <DesignSkill/>
+       
        <Education/>
        <Box/>
        <Transform/>
+       <MySkill/>
+       <MyPrice/>
+       <Testimonial/>
+       <Blog/>
+       <Footer/>
     </>
   )
 }
