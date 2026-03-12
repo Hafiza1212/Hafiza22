@@ -10,7 +10,7 @@ import facebook from '../Images/facebook.png'
 const Banner = () => {
   return (
     <section>
-<div className='container'>
+<div className='container m-auto px-4'>
     <div className=' lg:flex justify-between  items-start relative'>
     <img className='absolute left-[50%]  -translate-x-[50%] lg:mt-0 mt-[-700px]' src={Man}/>
 <div className="lg:w-[25%] w-full lg:mt-[192px] mt-[500px] ">
@@ -51,7 +51,7 @@ skills that <span className='text-[#FF494A]'> web design </span> highlights in y
 
     <img src={Web}/>
 </div>
-<div className='mt-[-60.5px] hidden lg:block pl-[270px]'>
+<div className='mt-[-60.5px] hidden lg:block '>
 <img className='absolute'src={Heading} />
 </div>
 </div>
