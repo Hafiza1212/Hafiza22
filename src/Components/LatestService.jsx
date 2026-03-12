@@ -20,14 +20,14 @@ const LatestService = () => {
     <div className="pt-[30px] px-[15px] ">
 
 <div className="first  bg-[#F4F4F4] rounded-[20px] mb-[20px] border-r-4 border-b-4 border-red-400 ">
-<h1 className=' text-[24px] pt-[34px] font-bold font-rajdhani   pl-[40px] pb-[22px] px-[40px] '>01. A Portfolio of Creativity</h1>
+<h1 className=' text-[24px] pt-[34px] font-bold font-rajdhani    pb-[22px] px-[40px] '>01. A Portfolio of Creativity</h1>
 <p className='px-[38px] pb-[34px] text-[#5D6570] '>Business consulting consultants provide expert advice and guida the a 
 businesses to help theme their performance efficiency</p>
 
 
 </div>
 <div className="second bg-[#F4F4F4] rounded-[20px]  mb-[20px] border-r-4 border-b-4 border-red-400 ">
-<h1 className=' text-[24px] pt-[34px] font-bold font-rajdhani   pl-[40px] pb-[22px] px-[40px] '>02. My Portfolio of Innovation</h1>
+<h1 className=' text-[24px] pt-[34px] font-bold font-rajdhani    pb-[22px] px-[40px] '>02. My Portfolio of Innovation</h1>
 <p className='px-[38px] pb-[34px] text-[#5D6570] '>My work is driven by the belief that thoughtful design and strategic
 planning can empower brands, transform businesses</p>
 
@@ -36,7 +36,7 @@ planning can empower brands, transform businesses</p>
 
 
 <div className="third bg-[#F4F4F4] rounded-[20px]  mb-[20px] border-r-4 border-b-4 border-red-400 ">
-<h1 className=' text-[24px] pt-[34px] font-bold font-rajdhani   pl-[40px] pb-[22px] px-[40px] '>03. A Showcase of My Project</h1>
+<h1 className=' text-[24px] pt-[34px] font-bold font-rajdhani    pb-[22px] px-[40px] '>03. A Showcase of My Project</h1>
 <p className='px-[38px] pb-[34px] text-[#5D6570] '>In this portfolio, you’ll find a curated selection of projects that highlight
 my skills in [Main Areas, e.g., responsive web design</p>
 
