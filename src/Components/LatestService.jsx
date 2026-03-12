@@ -14,7 +14,7 @@ const LatestService = () => {
 
 
                     </div>
-                    <div className="div2 flex mt-[30px]">
+                    <div className="div2 grid lg:grid-cols-2 mt-[30px]">
 
 <div className="div21 ">
     <div className="pt-[30px] px-[15px] ">

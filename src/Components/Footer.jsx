@@ -12,9 +12,9 @@ import twitter from '../Images/twitter.png'
 const Footer = () => {
   return (
     <section>
-<div className='container  py-[120px]'>
+<div className='container  pt-[120px]'>
 
-<div className="pt-[90px] bg-[#F4F4F4] flex pb-[120px]">
+<div className="pt-[90px] bg-[#F4F4F4] grid lg:grid-cols-3 pb-[120px]">
 <div className="one">
     <div className="pt-[30px]">
 
@@ -38,7 +38,7 @@ Create Great</h1>
 </div>
 <div className="two">
 <div className="pt-[30px]">
-    <div className="pl-[95px] pb-[38px] pr-[150px]">
+    <div className="pl-[25px] pb-[38px] pr-[150px]">
 <h1 className='pb-[40px]  font-bold text-[24px] font-rajdhani'>Quick Link</h1>
 <ul >
 <li className='text-[16px] text-start leading-[30px] font-normal' >About Me</li>

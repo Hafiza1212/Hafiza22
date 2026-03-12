@@ -7,9 +7,9 @@ const Education = () => {
                 <div className="main">
                     <h1 className='text-start font-bold text-[32px]'>Education </h1>
                     <div className="top">
-                        <div className="div1 flex">
+                        <div className="div1  grid lg:grid-cols-2">
 
-                            <div className="first w-[50%] rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
+                            <div className="first  rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
                                 <h6 className='text-[16px] text-[#141414] pt-[48px]   px-[38px] text-start lineHeight-[26px]'>Trainer Marketing</h6>
                                 <h6 className='px-[38px] pb-[18px] pt-[5px] font-bold text-[18px] lineHeight-[26px]'>2005-2009</h6>
                                 <p className='px-[38px] pb-[48px] text-[#5D6570]'>A personal portfolio is a curated collection of an individual's professional
@@ -20,7 +20,7 @@ const Education = () => {
                             </div>
 
 
-                            <div className="second w-[50%] rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
+                            <div className="second  rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
                                 <h6 className='text-[16px] text-[#141414] pt-[48px]   px-[38px] text-start lineHeight-[26px]'>Assistant Director</h6>
                                 <h6 className='px-[38px] pb-[18px] pt-[5px] font-bold text-[18px] lineHeight-[26px]'>2010-2014</h6>
                                 <p className='px-[38px] pb-[48px] text-[#5D6570]'>Each project here showcases my commitment to excellence and
@@ -33,9 +33,9 @@ adaptability, tailored to meet each client’s unique needs.</p>
 
 
                         </div>
-                        <div className="div2 flex">
+                        <div className="div2  grid lg:grid-cols-2">
 
- <div className="first w-[50%] rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
+ <div className="first  rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
                                 <h6 className='text-[16px] text-[#141414] pt-[48px]   px-[38px] text-start lineHeight-[26px]'>Design Assistant</h6>
                                 <h6 className='px-[38px] pb-[18px] pt-[5px] font-bold text-[18px] lineHeight-[26px]'>2008-2012</h6>
                                 <p className='px-[38px] pb-[48px] text-[#5D6570]'>I’ve had the privilege of working with various clients, from startups to
@@ -45,7 +45,7 @@ established companies, helping bring their visions to life.</p>
 
                             </div>
 
-<div className="second w-[50%] rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
+<div className="second  rounded-[20px] mt-[30px] mx-[15px] border-r-4   border-b-4 border-red-500 bg-[#F4F4F4] font-normal">
                                 <h6 className='text-[16px] text-[#141414] pt-[48px]   px-[38px] text-start lineHeight-[26px]'>Design Assistant</h6>
                                 <h6 className='px-[38px] pb-[18px] pt-[5px] font-bold text-[18px] lineHeight-[26px]'>2008-2012</h6>
                                 <p className='px-[38px] pb-[48px] text-[#5D6570]'>Each project here showcases my commitment to excellence and
@@ -75,15 +75,15 @@ adaptability, tailored to meet each client’s unique needs a personal.</p>
 
 
                     </div>
-<div className="bottom flex mt-[43px]">
-    <div className="div1 w-[50%]">
+<div className="bottom grid lg:grid-cols-2 mt-[43px]">
+    <div className="div1 ">
 <img className='mt-[30px] px-[15px]' src={Home}/>
 
 
 
 
     </div>
-    <div className="div2 w-[50%]">
+    <div className="div2 ">
 <div className=" px-[15px] pt-[30px] pb-[15.3px]">
     <h1 className='pl-[40px] pr-[138px] pb-[32px] font-bold text-[32px]
      font-rajdhani '>Experiences </h1>

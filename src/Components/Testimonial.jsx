@@ -13,7 +13,7 @@ between Remote</h1>
 
 </div>
 <div className="div2 pt-[20px] px-[15px]">
-    <div className="pt-[30px] flex gap-[30px]">
+    <div className="pt-[30px] grid lg:grid-cols-2 gap-[30px]">
 
 <div className="one rounded-[20px]  bg-[#F4F4F4]">
     <div className="py-[40px] px-[40px]">

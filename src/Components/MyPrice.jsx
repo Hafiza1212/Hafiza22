@@ -11,8 +11,8 @@ const MyPrice = () => {
 
 
                 </div>
-                <div className="div2 pt-[20px] gap-[30px] flex">
-                    <div className="one pt-[43px]">
+                <div className="div2 pt-[20px] gap-[30px] grid lg:grid-cols-3">
+                    <div className="one pt-[43px] ">
                         <div className="px-[15px] pt-[30px] bg-[#F4F4F4] rounded-[20px] border-r-2 border-b-2 border-red-300">
                             <h6 className='pt-[38px] pl-[38px] pr-[309px] font-bold text-start'>Starter</h6>
                             <h1 className='text-[48px] px-[38px] text-start font-bold font-rajdhani leading-[60px]'>$ 5.00</h1>

@@ -11,18 +11,18 @@ const Transform = () => {
     return (
         <section>
             <div className="container bg-[#F4F4F4] pt-[140px]">
-                <div className="div1 ">
+                <div className="div1 pb-[80px] ">
                     <h6 className='uppercase  text-[16px] font-medium text-[#FF494A] text-center leading-[28px] tracking-[1px]'>Latest Portfolio</h6>
                     <h1 className='leading-[60px] font-bold text-[48px] font-rajdhani text-center'>Transforming Ideas into Exceptional</h1>
                     <p className='leading-[26px] text-center text-[16px] text-[#5D6570] '>Business consulting consultants provide expert advice and guida businesses to help<br></br>
                         them improve their performance, efficiency, and organizational</p>
 
                 </div>
-                <div className="div2 flex">
-                    <div className="first w-[50%] mt-[40px]">
-                        <div className="pl-[25px] pb-[99.52px]">
+                <div className="div2 grid lg:grid-cols-2">
+                    <div className="first  mt-[40px]">
+                        <div className="pl-[25px] ">
                             <div className="first bg-[#F4F4F4] border-1 border-[#D9DDE0]   rounded-[20px]">
-                                <img className='px-[20px] py-[20px] ' src={Black} />
+                                <img className='px-[20px] py-[20px] sm:w-[100%] ' src={Black} />
 
                             </div>
 
@@ -50,11 +50,11 @@ const Transform = () => {
 
                     </div>
 
-                    <div className="second w-[50%]">
-                        <div className="pt-[40px]">
-                            <div className="pt-[100px] px-[25px]">
+                    <div className="second ">
+                        <div className="">
+                            <div className=" px-[25px]">
                                 <div className="image bg-[#F4F4F4] border-1 border-[#D9DDE0]   rounded-[20px]"  >
-                                    <img className='px-[20px] py-[20px]' src={Black3} />
+                                    <img className='px-[20px] py-[20px] sm:w-[100%]' src={Black3} />
 
 
                                 </div>
@@ -89,11 +89,11 @@ const Transform = () => {
 
                 </div>
 
-<div className="div2 flex">
-                    <div className="first w-[50%] mt-[40px]">
-                        <div className="pl-[25px] pb-[99.52px]">
+<div className="div2 grid lg:grid-cols-2">
+                    <div className="first mt-[40px]">
+                        <div className="pl-[25px] ">
                             <div className="first bg-[#F4F4F4] border-1 border-[#D9DDE0]   rounded-[20px]">
-                                <img className='px-[20px] py-[20px] ' src={Black4} />
+                                <img className='px-[20px] py-[20px] sm:w-[100%] ' src={Black4} />
 
                             </div>
 
@@ -121,11 +121,11 @@ const Transform = () => {
 
                     </div>
 
-                    <div className="second w-[50%]">
-                        <div className="pt-[40px]">
+                    <div className="second ">
+                        <div className="">
                             <div className="pt-[100px] px-[25px]">
                                 <div className="image bg-[#F4F4F4] border-1 border-[#D9DDE0]   rounded-[20px]"  >
-                                    <img className='px-[20px] py-[20px]' src={Black5} />
+                                    <img className='px-[20px] py-[20px] sm:w-[100%]' src={Black5} />
 
 
                                 </div>

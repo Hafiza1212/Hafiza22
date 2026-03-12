@@ -13,11 +13,11 @@ const Blog = () => {
                         through Powerful Portfolios</h1>
 
                 </div>
-                <div className="div2 pt-[20px] flex">
+                <div className="div2 pt-[20px] grid lg:grid-cols-3">
                     <div className="one">
                         <div className="pt-[30px]    px-[15px]">
-                            <div className='rounded-[20px] border-[1px] border-[#D9DDE0]'>
-                                <img src={Laptop} />
+                            <div className='rounded-[20px] border-[1px] border-[#D9DDE0] '>
+                                <img className='w-[100%]' src={Laptop} />
                                 <div className="">
                                     <h1 className='px-[30px] pt-[30px] pb-[16px]  font-bold font-rajdhani text-[24px] leading-[30px]'>Let’s bring your ideas to life!<br></br>
                                         Contact me, and let’s</h1>
@@ -29,10 +29,10 @@ const Blog = () => {
 
                     </div>
                     
- <div className="two">
+ <div className="two ">
                         <div className="pt-[30px]    px-[15px]">
                             <div className='rounded-[20px] border-[1px] border-[#D9DDE0]'>
-                                <img src={Laptop2} />
+                                <img className="w-[100%] "src={Laptop2} />
                                 <div className="">
                                     <h1 className='px-[30px] pt-[30px] pb-[16px]  font-bold font-rajdhani text-[24px] leading-[30px]'>Inspiring the World, One Project  <br></br>a Time for the man</h1>
                                     <p className='text-[#5D6570] pb-[31px] text-[13px] uppercase tracking-[.5px] leading-[27px] pl-[30px]'>Read More </p>
@@ -49,7 +49,7 @@ const Blog = () => {
 <div className="three">
                         <div className="pt-[30px]    px-[15px]">
                             <div className='rounded-[20px] border-[1px] border-[#D9DDE0]'>
-                                <img src={Mobile} />
+                                <img className="w-[100%] " src={Mobile} />
                                 <div className="">
                                     <h1 className='px-[30px] pt-[30px] pb-[16px]  font-bold font-rajdhani text-[24px] leading-[30px]'>Each one showcases my approach<br></br>
 and dedication man

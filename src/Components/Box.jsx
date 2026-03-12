@@ -68,21 +68,21 @@ const Box = () => {
 
 
 </div> */}
-        <div className="div1 flex">
-          <img className='border-1 border-[#D9DDE0]' src={Linear} />
-          <img className='border-1 border-[#D9DDE0]' src={Framer} />
-          <img className='border-1 border-[#D9DDE0]' src={Notion} />
-          <img className='border-1 border-[#D9DDE0]' src={Slack} />
+        <div className="div1 grid lg:grid-cols-4 ">
+          <img className='border-1 sm:border-l-0 sm: w-full m-auto border-[#D9DDE0]' src={Linear} />
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Framer} />
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Notion} />
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Slack} />
 
 
 
 
         </div>
-        <div className="div2 flex">
-          <img className='border-1 border-[#D9DDE0]' src={Medium} />
-          <img className='border-1 border-[#D9DDE0]' src={Upwork} />
-          <img className='border-1 border-[#D9DDE0]' src={Amazon} />
-          <img className='border-1 border-[#D9DDE0]' src={Asana} />
+        <div className="div2  grid lg:grid-cols-4">
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Medium} />
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Upwork} />
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Amazon} />
+          <img className='border-1 sm: w-full m-auto border-[#D9DDE0]' src={Asana} />
 
 
 
