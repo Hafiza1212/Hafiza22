@@ -16,7 +16,7 @@ the best Experiences</h1>
 </div>
 
 <div className="div2 mt-[60px]">
-<div className="div21 lg:flex items-center bg-red-500">
+<div className="div21 hover:bg-[#FF494A] lg:flex items-center ">
     <div className="one flex lg:justify-start justify-center pl-[20px]">
        <img src={Homee}/>
 
@@ -42,13 +42,13 @@ can empower brands</p>
 </div>
 
 
-<div className="div22 lg:flex items-center">
-    <div className="one flex lg:justify-start justify-center pl-[20px]">
+<div className="div22 hover:bg-[#FF494A] lg:flex items-center ">
+    <div className="one flex lg:justify-start justify-center  pl-[20px]">
        <img src={Curt}/>
 
     </div>
     <div className="two px-[132.61px]">
-<h1 className='text-[32px] text-center lg:text-start font-bold font-rajdhani leading-[42px]'>Ui/visual Design</h1>
+<h1 className='text-[32px] text-center lg:text-start font-bold font-rajdhani leading-[42px] whitespace-nowrap'>Ui/visual Design</h1>
 <p className='text-[18px] leading-[27px] text-center lg:text-start font-normal font-rajdhani'>21 Done</p>
 
     </div>
@@ -69,18 +69,18 @@ design</p>
 </div>
 
 
-<div className="div23 lg:flex items-center">
-    <div className="one flex lg:justify-start justify-center pl-[20px]">
-       <img src={Pen}/>
+<div className="div23 hover:bg-[#FF494A] mt-[-18px] lg:flex  items-center">
+    <div className="one w-full h-full flex lg:justify-start justify-center pl-[20px]">
+       <img  src={Pen}/>
 
     </div>
-    <div className="two px-[132.61px]">
-<h1 className='text-[32px] text-center lg:text-start font-bold font-rajdhani leading-[42px]'>Motion Design</h1>
+    <div className="two justify-between lg:ml-[-520px]  w-full">
+<h1 className='text-[32px] text-center lg:text-start font-bold font-rajdhani leading-[42px]  whitespace-nowrap'>Motion Design</h1>
 <p className='text-[18px] leading-[27px] text-center lg:text-start font-normal font-rajdhani'>21 Done</p>
 
     </div>
-    <div className="three">
-<p className='leading-[30px] text-center lg:text-start text-[#5D6570] font-normal text-[16px]'>Each project here showcases my commitment to excellence
+    <div className="three lg:ml-[-400px]">
+<p className='leading-[30px] text-center  text-[#5D6570] font-normal text-[16px]'>Each project here showcases my commitment to excellence
 and adaptability, tailored to meet each client’s unique needs
 </p>
 

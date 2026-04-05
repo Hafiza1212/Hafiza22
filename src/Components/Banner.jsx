@@ -51,7 +51,7 @@ skills that <span className='text-[#FF494A]'> web design </span> highlights in y
 
     <img src={Web}/>
 </div>
-<div className='mt-[-60.5px] hidden lg:block '>
+<div className='mt-[-60.5px] hidden ml-[250px] lg:block '>
 <img className='absolute'src={Heading} />
 </div>
 </div>
