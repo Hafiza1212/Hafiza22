@@ -1,7 +1,7 @@
 import React from 'react'
 import Homee from '../Images/Home2.png'
 import Left from '../Images/LeftArrow.png'
-import Curt from '../Images/Curt.png'
+import Curt from '../Images/curt.png'
 import Pen from '../Images/Pen.png'
 const MySkill = () => {
   return (
